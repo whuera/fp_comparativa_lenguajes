@@ -1,0 +1,15 @@
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/bin/Debug/net8.0/taller2
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/bin/Debug/net8.0/taller2.deps.json
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/bin/Debug/net8.0/taller2.runtimeconfig.json
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/bin/Debug/net8.0/taller2.dll
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/bin/Debug/net8.0/taller2.pdb
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.AssemblyInfoInputs.cache
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.AssemblyInfo.cs
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.csproj.CoreCompileInputs.cache
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.sourcelink.json
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.dll
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/refint/taller2.dll
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.pdb
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/taller2.genruntimeconfig.cache
+/Users/whuera/Documents/Ecuador/UEES/Fundamentos de programación/TallerPractico2/taller2Csharp/taller2/obj/Debug/net8.0/ref/taller2.dll
